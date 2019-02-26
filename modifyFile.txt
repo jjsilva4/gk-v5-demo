@@ -6,3 +6,4 @@ Add line 5 to modifyFile.txt
 Add line 6 to modifyFile.txt
 Add line 7 to modifyFile.txt
 Add line 8 to modifyFile.txt
+Add line 9 to modifyFile.txt
