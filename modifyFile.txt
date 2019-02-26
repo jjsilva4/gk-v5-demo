@@ -8,3 +8,4 @@ Add line 7 to modifyFile.txt
 Add line 8 to modifyFile.txt
 Add line 9 to modifyFile.txt
 Add line 10 to modifyFile.txt
+Add line 11 to modifyFile.txt
