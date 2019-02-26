@@ -1,0 +1,1 @@
+Add line 6 to sample6.js
