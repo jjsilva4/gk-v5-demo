@@ -4,3 +4,4 @@ Add line 3 to holyshit.txt
 Add line 4 to holyshit.txt
 Add line 5 to holyshit.txt
 Add line 6 to holyshit.txt
+Add line 7 to holyshit.txt
