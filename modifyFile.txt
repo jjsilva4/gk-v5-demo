@@ -9,3 +9,4 @@ Add line 8 to modifyFile.txt
 Add line 9 to modifyFile.txt
 Add line 10 to modifyFile.txt
 Add line 11 to modifyFile.txt
+Add line 12 to modifyFile.txt
